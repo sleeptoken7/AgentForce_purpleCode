@@ -36,3 +36,7 @@ venv/
 # SQLite databases
 *.sqlite3
 *.db
+
+zomato.csv
+
+.env
