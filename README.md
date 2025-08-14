@@ -41,3 +41,7 @@ Unlike static reports, Sentiview AI allows users to have a conversation with the
     ```bash
     streamlit run main.py
     ```
+
+
+
+<img width="1208" height="634" alt="Screenshot 2025-08-14 at 10 45 24 PM" src="https://github.com/user-attachments/assets/13cf8dbf-05c7-4140-8f40-21cb5cad0142" />
